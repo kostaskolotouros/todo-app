@@ -1,3 +1,4 @@
 add a new player
 update the OS
 Kostas made it better
+Master Python!
