@@ -1,5 +1,4 @@
 add a new player
 update the OS
-Did Kostas make it better?Master Python!
-Old KostasMy newest TODO is added
-Yet another addition
+New kid on the block
+Adding a new item
